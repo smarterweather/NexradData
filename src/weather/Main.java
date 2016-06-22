@@ -25,7 +25,7 @@ public class Main {
 	}
 	
 	public static void test() {
-		String filename = "C:/Users/Alex/Volume_Scan_Files/KMLB20160618_230637_V06";
+		String filename = "data/KMLB20160618_230637_V06";
 		
 		RadialDatasetSweep rds = NetCdfFactory.getRadialDatasetSweep(filename);
 		
@@ -58,9 +58,8 @@ public class Main {
 				System.out.println(attribute.getFullName());
 				Array values = attribute.getValues();
 				
-//				values.
-				
 				System.out.println(values.getDataType().getPrimitiveClassType().getCanonicalName());
+				
 			}
 			
 			System.out.println();
