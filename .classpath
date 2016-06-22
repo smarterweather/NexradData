@@ -3,28 +3,27 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/AWS/aws-java-sdk-1.11.5/lib/aws-java-sdk-1.11.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/AWS/aws-java-sdk-1.11.5/lib/aws-java-sdk-1.11.5-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/AWS/aws-java-sdk-1.11.5/lib/aws-java-sdk-1.11.5-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/AWS/aws-java-sdk-1.11.5/lib/aws-swf-build-tools-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/jackson-annotations-2.5.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/jackson-databind-2.5.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/jackson-core-2.5.0-rc1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/httpcomponents-client-4.5.2/lib/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/httpcomponents-client-4.5.2/lib/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/httpcomponents-client-4.5.2/lib/fluent-hc-4.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/httpcomponents-client-4.5.2/lib/httpclient-4.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/httpcomponents-client-4.5.2/lib/httpclient-cache-4.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/httpcomponents-client-4.5.2/lib/httpclient-win-4.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/httpcomponents-client-4.5.2/lib/httpcore-4.4.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/httpcomponents-client-4.5.2/lib/httpmime-4.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/httpcomponents-client-4.5.2/lib/jna-4.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/httpcomponents-client-4.5.2/lib/jna-platform-4.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/joda-time-2.3.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/commons-compress-1.11/commons-compress-1.11.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/commons-compress-1.11/commons-compress-1.11-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alex/Jars/netcdfAll-4.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/aws-java-sdk-1.11.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/aws-java-sdk-1.11.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/aws-java-sdk-1.11.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/aws-swf-build-tools-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/commons-compress-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/commons-compress-1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/fluent-hc-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/jackson-annotations-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/jackson-core-2.5.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/jackson-databind-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/workspace/NexradSample/library/netcdfAll-4.6.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
