@@ -58,6 +58,8 @@ public class Main {
 				System.out.println(attribute.getFullName());
 				Array values = attribute.getValues();
 				
+//				values.
+				
 				System.out.println(values.getDataType().getPrimitiveClassType().getCanonicalName());
 			}
 			
